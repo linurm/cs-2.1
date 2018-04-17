@@ -1,0 +1,33 @@
+!!brut.androlib.meta.MetaInfo
+apkFileName: CS_2.1.apk
+compressionType: false
+doNotCompress:
+- arsc
+- s3e
+- dz
+- txt
+- free
+- nib
+- plist
+- html
+- pbin
+- ttf
+- xml
+- res/raw/gtm_analytics
+isFrameworkApk: false
+packageInfo:
+  forcedPackageId: '127'
+  renameManifestPackage: null
+sdkInfo:
+  minSdkVersion: '9'
+  targetSdkVersion: '24'
+sharedLibrary: false
+unknownFiles: {}
+usesFramework:
+  ids:
+  - 1
+  tag: null
+version: 2.3.1
+versionInfo:
+  versionCode: '1516910420'
+  versionName: 2.1.0.1g
